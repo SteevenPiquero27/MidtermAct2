@@ -1,0 +1,128 @@
+body
+{
+	background-color: #949398FF;
+}
+h1
+{
+	text-align: center;
+	font-size: 40px;
+	text-shadow: 3px 1px white;
+}
+p.title
+{
+	text-align: center;
+	font-size: 28px;
+	height: 50;
+	width: 99%;
+	background-color: #F4DF4EFF;
+	padding: 15px 5px 0px 5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.pic1
+{	
+	text-align: center;
+	padding: 20px 40px 20px 40px;
+	width: 186;
+	height: 289;
+	border: 10px solid #F4DF4EFF;
+	float: left;
+	margin-left: 300;
+	margin-right: auto;
+}
+.pic2
+{
+	text-align: center;
+	padding: 20px 40px 20px 40px;
+	width: 186;
+	height: 289;
+	border: 10px double #F4DF4EFF;
+	margin-left: auto;
+	margin-right: 300;
+}
+.dets1
+{
+	width: 286;
+	height: 180;
+	padding: 0px 20px 5px 20px;
+	background-color: #F4DF4EFF;
+	float: left;
+	margin-left: 280;
+	margin-right: auto;
+	overflow: auto;
+	text-align: justify;
+}
+.dets2
+{
+	width: 286;
+	height: 180;
+	padding: 0px 20px 5px 20px;
+	background-color: #F4DF4EFF;
+	margin-left: auto;
+	margin-right: 280;
+	overflow: auto;
+	text-align: justify;
+}
+.pic3
+{	
+	text-align: center;
+	padding: 20px 40px 20px 40px;
+	width: 186;
+	height: 289;
+	border: 10px dotted #F4DF4EFF;
+	float: left;
+	margin-left: 300;
+	margin-right: auto;
+}
+.pic4
+{
+	text-align: center;
+	padding: 20px 40px 20px 40px;
+	width: 186;
+	height: 289;
+	border: 10px dashed #F4DF4EFF;
+	margin-left: auto;
+	margin-right: 300;
+}
+.pic5
+{	
+	text-align: center;
+	padding: 20px 40px 20px 40px;
+	width: 186;
+	height: 289;
+	border: 10px groove #F4DF4EFF;
+	float: left;
+	margin-left: 300;
+	margin-right: auto;
+}
+.pic6
+{
+	text-align: center;
+	padding: 20px 40px 20px 40px;
+	width: 186;
+	height: 289;
+	border: 10px ridge #F4DF4EFF;
+	margin-left: auto;
+	margin-right: 300;
+}
+.pic7
+{	
+	text-align: center;
+	padding: 20px 40px 20px 40px;
+	width: 186;
+	height: 289;
+	border: 10px inset #F4DF4EFF;
+	float: left;
+	margin-left: 300;
+	margin-right: auto;
+}
+.pic8
+{
+	text-align: center;
+	padding: 20px 40px 20px 40px;
+	width: 186;
+	height: 289;
+	border: 10px outset #F4DF4EFF;
+	margin-left: auto;
+	margin-right: 300;
+}
